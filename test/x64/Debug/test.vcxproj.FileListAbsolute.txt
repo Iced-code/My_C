@@ -1,0 +1,2 @@
+C:\Users\dracg\my_c\test\x64\Debug\test.exe
+C:\Users\dracg\OneDrive\Documents\test\x64\Debug\test.exe
