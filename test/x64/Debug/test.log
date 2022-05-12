@@ -1,2 +1,7 @@
 ﻿  main.c
-  test.vcxproj -> C:\Users\dracg\OneDrive\Documents\test\x64\Debug\test.exe
+C:\Users\dracg\My_C\test\main.c(55,10): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\dracg\My_C\test\main.c(58,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\dracg\My_C\test\main.c(58,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\dracg\My_C\test\main.c(58,10): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\dracg\My_C\test\main.c(58,10): message : this argument is used as a buffer size
+C:\Users\dracg\My_C\test\main.c(55): error C4700: uninitialized local variable 'age' used
